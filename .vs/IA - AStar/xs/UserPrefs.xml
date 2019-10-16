@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B4A6D477-DE38-E0BF-377A-7FFAF87FD909}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AStar/AStarNavigator.cs" Line="24" Column="9" />
+      <File FileName="Assets/Scripts/AStar/AStarGraph.cs" Line="37" Column="6" />
+      <File FileName="Assets/Scripts/AStar/AStarConnection.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/AStar/AStarNode.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="39" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
